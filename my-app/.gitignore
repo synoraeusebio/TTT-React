@@ -1,0 +1,3 @@
+node_modules
+# Ignore all SQLite databases
+db/*.sqlite3
